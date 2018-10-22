@@ -1,0 +1,19 @@
+input{
+	font-family:  'Helvetica', sans-serif;
+	padding: 5px 20px 5px 20px;
+	outline: none;
+	border-radius: 3px;
+	border: 1px solid #8888;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-size: 16px;
+}
+td{
+	font-family: 'Helvetica' , sans-serif;
+	font-size: 16px;
+	color: #333;
+	font-weight: 600;
+}
+h1{
+	text-align: center;
+}
